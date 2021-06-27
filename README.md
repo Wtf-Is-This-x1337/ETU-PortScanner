@@ -6,7 +6,7 @@ Easy to use port scanner program written in Python
 - [IPy](https://pypi.org/project/IPy/) [pip install IPy]
 
 ## Image
-![]()
+![alt text](https://github.com/Wtf-Is-This-x1337/ETU-PortScanner/blob/main/images/main.png?raw=true)
 
 ## Features
 ### Settings
