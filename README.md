@@ -15,6 +15,7 @@ Easy to use port scanner program written in Python
 - Timeout (if this value is higher the acurracy will be better, but the scan will take longer to perform)
 - Option to display closed ports
 ### Soon
+- Colors, new fonts and Script K1ddie Mode
 - Vuln. scanner
 - File output
 - IP scan
