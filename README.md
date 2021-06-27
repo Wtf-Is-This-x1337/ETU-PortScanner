@@ -31,6 +31,7 @@ Easy to use port scanner program written in Python
 6. Run the python script (Example: "python PortScanner.py")
 ### Debian
 1. Open terminal and download/update github ("sudo apt-get install git")
-2. Install all the dependencies (download python and write "pip install IPy" in the terminal)
-3. Change the current working directory to the script's folder (Example: "cd ~/Downloads/ESU-PortScanner")
-4. Run the python script (Example: "python3 PortScanner.py")
+2. Use git to download the Port Scanner ("git clone https://github.com/Wtf-Is-This-x1337/ETU-PortScanner.git")
+3. Install all the dependencies (download python and write "pip install IPy" in the terminal)
+4. Change the current working directory to the script's folder (Example: "cd ~/Downloads/ESU-PortScanner")
+5. Run the python script (Example: "python3 PortScanner.py")
