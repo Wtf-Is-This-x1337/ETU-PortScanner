@@ -16,7 +16,7 @@ Easy to use port scanner program written in Python
 - Option to display closed ports
 ### Soon
 - Colors, new fonts and Script K1ddie Mode
-- Banners
+- Banners and better service detection
 - Vuln. scanner
 - File output
 - IP scan
